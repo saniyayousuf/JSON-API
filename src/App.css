@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: center;  
+  align-items: center;
+  height: 100vh;
+  background-color: #ebfffd;
+}
+
+.box {
+  padding: 20px;
+  width: 350px;
+  text-align: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+
+
+
+
+
